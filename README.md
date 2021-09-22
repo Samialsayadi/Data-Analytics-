@@ -1,5 +1,5 @@
 # Data Analytics 
-# Read and write from SQL by using Panadas
+# Read and write from SQL by using Pandas
 
 you can download PostgreSQL by https://www.postgresql.org/download/
 
